@@ -6,7 +6,7 @@ public static void ejecutar() {
  
 Scanner sc = new Scanner(System.in);
  
-System.out.println("\n--- EJERCICIO 1 ---");
+System.out.println("EJERCICIO 1");
  
 System.out.print("Nombre del estudiante: ");
 String nombre = sc.nextLine();
